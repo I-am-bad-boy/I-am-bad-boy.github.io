@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/normalize/8.0.0/normalize.min.css">
+    <link rel="stylesheet" href="../../../css/main.css">
+    <title>周鑫文的博客</title>
+</head>
+<body>
+<div class="side-bar">
+    <div class="header">
+        <a href="../../../index.html" class="logo">Zhouxinwen</a>
+        <div class="intro">Little heart, big dreams.</div>
+    </div>
+    <div class="nav">
+        <a href="../../../rank/My-insight.html" class="item">My insights </a>
+        <a href="../../../rank/Code-life.html" class="item">Code life</a>
+        <a href="../../../rank/Growth-notes.html" class="item">Growth notes</a>
+    </div>
+    <div class="tag-list">
+        <a href="../../../develop/Being-developed.html" class="item">About me</a>
+        <a href="../../../develop/Being-developed.html" class="item">connect me</a>
+        <a href="../../../develop/Being-developed.html" class="item">focus me</a>
+    </div>
+</div>
+</div><div class="main">
+    <div class="article">
+        <h1 class="title">Strategy pattern</h1>
+        <div class="status">发布于：2018/11/4 15:48 | 修改次数：0|标签：代码</div>
+        <div class="content">
+            <div>
+                Little knowledge: implements implementation of interface methods
+            </div>
+            <div>
+                Design principles:
+            </div>
+            <div>
+                1. Find out what changes may be needed in an application, and separate them from the code that doesn't need to change.</div>
+            <div>
+                2. interface programming, rather than programming.
+            </div>
+            <div>
+                3. multi use combination, less inheritance.
+            </div>
+            <div>
+                1. Strategy pattern
+            </div>
+            <div>
+                1. strategy mode: use combination to replace multi form actions.
+            </div>
+            <div>
+                2. class diagram example:
+            </div>
+            <div>
+                <img src="策略模式.bmp" width="100%" height="auto">
+            </div>
+            <div>The code is underneath.</div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+
+
+
+    </div>
+    <div class="article">
+        <h1 class="title">策略模式</h1>
+        <div class="status">发布于：2018/11/4 15:48 | 修改次数：0|标签：代码</div>
+        <div class="content">
+            <div>
+                小知识：implements 实现接口方法
+            </div>
+            <div>
+                设计原则：
+            </div>
+            <div>
+                1.	找出应用中可能需要变化之处，把它们独立出来，不要和那些不需要变化的代码混在一起。
+            </div>
+            <div>
+                2.	针对接口编程，而不是针对实现编程。
+            </div>
+            <div>
+                3.	多用组合，少用继承。
+            </div>
+            <div>
+                一．	策略模式
+            </div>
+            <div>
+                1. 策略模式：用组合代替多形态的动作。
+            </div>
+            <div>
+                2.类图范例：
+            </div>
+            <div>
+                <img src="策略模式.bmp" width="100%" height="auto">
+            </div>
+            <div>
+                代码：
+            </div>
+            <div>
+                Duck.java
+            </div>
+            <div>
+                <pre>
+ public abstract class Duck{
+	FlyBehavior flyBehavior;
+	QuackBehavior quackBehavior;
+	public abstract void display();
+	public void  performFly(){
+		flyBehavior.fly();
+	}
+	public void performQuack(){
+		quackBehavior.quack();}
+	public void setFlyBehavior(FlyBehavior fb){
+		flyBehavior=fb;
+	}
+	public void setQuackBehavior(QuackBehavior qb){
+		quackBehavior=qb;
+	}
+	public void swim(){
+		System.out.println("all ducks float!");}}
+
+                </pre>
+            </div>
+            <div>
+                FlyBehavior.java
+            </div>
+            <div>
+                <pre>
+  public interface FlyBehavior{
+	public void fly();
+}
+
+                </pre>
+            </div>
+            <div>
+                FlyWithWings.java
+            </div>
+            <div>
+                <pre>
+ public class FlyWithWings implements FlyBehavior{
+	public void fly(){
+		System.out.println("i can fly!");
+	}
+}
+
+                </pre>
+            </div>
+            <div>FlyNoWay.java</div>
+            <div>
+                <pre>
+public class FlyNoWay implements FlyBehavior(){
+	public void fly(){
+		System.out.println("i can't fly!");
+	}
+}
+
+                </pre>
+            </div>
+            <div>
+                QuackBehavior.java
+            </div>
+            <div>
+                <pre>
+ public interface QuackBehavior{
+	public void quack();
+}
+
+                </pre>
+            </div>
+            <div>
+                Quack.java
+            </div>
+            <div>
+                <pre>
+public interface QuackBehavior{
+	public void quack();
+}
+
+                </pre>
+            </div>
+            <div>
+                Squeak.java
+            </div>
+            <div>
+                <pre>
+ public class Squeak implements QuackBehavior(){
+	public void quack(){
+		System.out.println("Squeack!");
+	}
+}
+
+                </pre>
+            </div>
+            <div>MuteQuack.java</div>
+            <div>
+                <pre>
+   public class MuteQuack implements QuackBehavior(){
+	public void quack(){
+		System.out.println("<<'slience'>>");
+    }
+ }
+
+                </pre>
+            </div>
+            <div>MallardDuck.java</div>
+            <div>
+                <pre>
+  public class MallardDuck extends Duck{
+	public MallardDuck(){
+		quackBehavior=new Quack();
+		flyBehavior=new FlyWithWings();
+	}
+	public void display(){
+		System.out.println("i'm Mallard Duck.");
+	}
+}
+
+                </pre>
+            </div>
+            <div>
+                MiniDuckSimulator.java
+            </div>
+            <div>
+                <pre>
+ public class MiniDuckSimulator{
+	public static void main(String[] args){
+		Duck mallard=new MallardDuck();
+		mallard.performQuack();
+		mallard.performFly();
+	}
+}
+
+                </pre>
+            </div>
+            <div>
+                download:<a href="策略模式.rar"> 策略模式.rar</a>
+            </div>
+            <div>
+
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
