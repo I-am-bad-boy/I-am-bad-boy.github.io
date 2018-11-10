@@ -21,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4083045">
-              <caret line="175" column="22" selection-start-line="175" selection-start-column="22" selection-end-line="175" selection-end-column="22" />
+            <state vertical-scroll-proportion="-9.785714">
+              <caret line="180" column="70" selection-start-line="180" selection-start-column="70" selection-end-line="180" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="My-insight.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rank/My-insight.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.5">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -41,7 +51,7 @@
       <file leaf-file-name="Being-developed.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/develop/Being-developed.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6785714">
+            <state vertical-scroll-proportion="0.0">
               <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding />
             </state>
@@ -51,18 +61,18 @@
       <file leaf-file-name="Growth-notes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rank/Growth-notes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5">
-              <caret line="107" column="24" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
+            <state vertical-scroll-proportion="-9.107142">
+              <caret line="111" column="20" selection-start-line="111" selection-start-column="20" selection-end-line="114" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Android environment configuration and helloworldApp program.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Android environment configuration and helloworldApp program.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Article/Code-life/Android environment configuration and helloworldApp program/Android environment configuration and helloworldApp program.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-31.892857">
-              <caret line="59" column="50" selection-start-line="59" selection-start-column="50" selection-end-line="59" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.60553634">
+              <caret line="73" column="63" selection-start-line="73" selection-start-column="63" selection-end-line="73" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -71,25 +81,25 @@
       <file leaf-file-name="Setbacks can beat Hemingway, but won't win Santiago.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Article/Growth-notes/Setbacks can beat Hemingway, but won't win Santiago/Setbacks can beat Hemingway, but won't win Santiago.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="9.5">
+            <state vertical-scroll-proportion="0.0">
               <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="我看我自己.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Article/Growth-notes/我看我自己/我看我自己.html">
+      <file leaf-file-name="铸剑.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Article/Growth-notes/铸剑/铸剑.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.357143">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="36" selection-end-column="20" />
+            <state vertical-scroll-proportion="-10.464286">
+              <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="重剑.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Article/Growth-notes/我看我自己/重剑.jpg">
+        <entry file="file://$PROJECT_DIR$/Article/Growth-notes/铸剑/重剑.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -100,16 +110,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Code-life.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rank/Code-life.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -149,11 +149,13 @@
         <option value="$PROJECT_DIR$/Article/Code-life/CSS image enlargement/Implementation of CSS image magnification.html" />
         <option value="$PROJECT_DIR$/rank/Code-life.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/Article/Code-life/Android environment configuration and helloworldApp program/Android environment configuration and helloworldApp program.html" />
         <option value="$PROJECT_DIR$/Article/Growth-notes/我看我自己/Setbacks can beat Hemingway, but won't win Santiago.html" />
         <option value="$PROJECT_DIR$/Article/Growth-notes/我看我自己/我看我自己.html" />
+        <option value="$PROJECT_DIR$/Article/Growth-notes/铸剑/我看我自己.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/rank/Growth-notes.html" />
+        <option value="$PROJECT_DIR$/Article/Growth-notes/铸剑/铸剑.html" />
+        <option value="$PROJECT_DIR$/Article/Code-life/Android environment configuration and helloworldApp program/Android environment configuration and helloworldApp program.html" />
       </list>
     </option>
   </component>
@@ -193,8 +195,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -272,12 +274,22 @@
               <option name="myItemId" value="Article" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Growth-notes" />
+              <option name="myItemId" value="I-am-bad-boy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="I-am-bad-boy.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="我看我自己" />
+              <option name="myItemId" value="Article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Code-life" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -295,21 +307,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Growth-notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="I-am-bad-boy.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="I-am-bad-boy.github.io" />
+              <option name="myItemId" value="Code-life" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Article" />
+              <option name="myItemId" value="Android environment configuration and helloworldApp program" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -453,7 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="23" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -522,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="23" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -579,7 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="23" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -654,13 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rank/My-insight.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Article/My-insights/11-15diry/11-15diry.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -679,7 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,33 +726,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Code-life/Android environment configuration and helloworldApp program/Android environment configuration and helloworldApp program.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-31.892857">
-          <caret line="59" column="50" selection-start-line="59" selection-start-column="50" selection-end-line="59" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Article/Growth-notes/Setbacks can beat Hemingway, but won't win Santiago/Setbacks can beat Hemingway, but won't win Santiago.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="9.5">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/我看我自己/重剑.jpg">
+    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/铸剑/重剑.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/我看我自己/我看我自己.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.357143">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="36" selection-end-column="20" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/develop/Being-development.jpg">
@@ -773,24 +746,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/develop/Being-developed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6785714">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rank/Growth-notes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5">
-          <caret line="107" column="24" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4083045">
-          <caret line="175" column="22" selection-start-line="175" selection-start-column="22" selection-end-line="175" selection-end-column="22" />
+        <state vertical-scroll-proportion="-9.785714">
+          <caret line="180" column="70" selection-start-line="180" selection-start-column="70" selection-end-line="180" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rank/My-insight.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.5">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rank/Growth-notes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.107142">
+          <caret line="111" column="20" selection-start-line="111" selection-start-column="20" selection-end-line="114" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/铸剑/铸剑.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.464286">
+          <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Article/Code-life/Android environment configuration and helloworldApp program/Android environment configuration and helloworldApp program.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60553634">
+          <caret line="73" column="63" selection-start-line="73" selection-start-column="63" selection-end-line="73" selection-end-column="63" />
           <folding />
         </state>
       </provider>
