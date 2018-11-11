@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/normalize/8.0.0/normalize.min.css">
+    <link rel="stylesheet" href="../../../css/main.css">
+    <style type="text/css">
+        img:hover{
+            width: auto;
+        }
+        textarea{
+            width: 100%;
+            height: 200px;
+        }
+    </style>
+    <title>周鑫文的博客</title>
+</head>
+<body>
+<div class="side-bar">
+    <div class="header">
+        <a href="../../../index.html" class="logo">Zhouxinwen</a>
+        <div class="intro">Little heart, big dreams.</div>
+    </div>
+    <div class="nav">
+        <a href="../../../rank/My-insight.html" class="item">My insights </a>
+        <a href="../../../rank/Code-life.html" class="item">Code life</a>
+        <a href="../../../rank/Growth-notes.html" class="item">Growth notes</a>
+    </div>
+    <div class="tag-list">
+        <a href="../../../develop/Being-developed.html" class="item">About me</a>
+        <a href="../../../develop/Being-developed.html" class="item">connect me</a>
+        <a href="../../../develop/Being-developed.html" class="item">focus me</a>
+    </div>
+</div>
+</div><div class="main">
+    <div class="article">
+        <h1 class="title">app第一个按钮</h1>
+        <div class="status">发布于：2018/11/11 23:12 | 修改次数：0|标签：代码</div>
+        <div class="content">
+
+            <div>
+                今天看电视剧去了，降低点难度，app第一个按钮。
+            </div>
+            <div>
+                <b>代码：</b>
+            </div>
+            <div>
+                <textarea>
+                    <?xml version="1.0" encoding="utf-8"?>
+                    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                  android:orientation="vertical" android:layout_width="match_parent"
+                                  android:layout_height="match_parent">
+
+                        <Button
+                                android:id="@+id/button_1"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Button 1"/>
+
+                    </LinearLayout>
+                </textarea>
+            </div>
+            <div>
+                <b>调用布局的源文件：</b>
+            </div>
+            <div>
+                <textarea>
+                    package com.zhouxinwen.activitytest;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class FirstActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.first_layout);
+    }
+}
+                </textarea>
+            </div>
+
+            <div>
+                <b>成果图：</b>
+            </div>
+            <div>
+                <img src="按钮.png" width="100%">
+            </div>
+            <div>
+                App下载：<a href="com.zhouxinwen.activitytest.apk">第一个按钮</a>
+            </div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
