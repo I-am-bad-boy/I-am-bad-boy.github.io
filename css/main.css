@@ -3,7 +3,17 @@ body{
     line-height: 1.7;
 }
 
+.article img{
+    width: 100%;
+}
 
+.article img:hover{
+    width: 180%;
+}
+
+.text{
+    text-indent: 2em;
+}
 
 a{
     text-decoration: none;
