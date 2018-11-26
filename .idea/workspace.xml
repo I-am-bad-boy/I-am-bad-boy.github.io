@@ -84,23 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/404.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../neverdied.github.io/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="225" column="30" selection-start-line="225" selection-start-column="30" selection-end-line="225" selection-end-column="30" />
-              <folding>
-                <element signature="e#5164#5223#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="209">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -179,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Article/Code-life/python游戏制作/python游戏制作.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/github客户端使用/github客户端使用.html" />
         <option value="$PROJECT_DIR$/Article/Growth-notes/面朝大海，春暖花开/面朝大海，春暖花开.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/web常见样式练习/web常见样式练习.html" />
@@ -228,8 +215,9 @@
         <option value="$PROJECT_DIR$/rank/Code-life.html" />
         <option value="$PROJECT_DIR$/404.md" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/../neverdied.github.io/index.html" />
+        <option value="$PROJECT_DIR$/develop/404.html" />
+        <option value="$PROJECT_DIR$/404.html" />
       </list>
     </option>
   </component>
@@ -277,19 +265,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\Article\Growth-notes" />
-      <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\Article\Code-life\一元的应用" />
-      <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\Article\Code-life\高数-导数与微分（二）" />
-      <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\Article\Code-life\高数-导数与微分（一）" />
-      <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\Article\Code-life\高数-函数极限连续" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io" />
       <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\Article\Code-life" />
       <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\Article\Growth-notes" />
       <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\Article\Growth-notes\11月24日记" />
       <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\Article" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io" />
+      <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\develop" />
+      <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\Article\Growth-notes" />
+      <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\Article\Code-life\一元的应用" />
+      <recent name="C:\Users\Administrator.PC-20181115TFON\Documents\GitHub\I-am-bad-boy.github.io\Article\Code-life\高数-导数与微分（二）" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -364,12 +352,12 @@
       <workItem from="1543233701785" duration="606000" />
       <workItem from="1543236404644" duration="2178000" />
       <workItem from="1543243959261" duration="2266000" />
-      <workItem from="1543246338441" duration="1429000" />
+      <workItem from="1543246338441" duration="1938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81233000" />
+    <option name="totallyTimeSpent" value="81742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -691,13 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../neverdied.github.io/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
@@ -705,6 +686,13 @@
           <folding>
             <element signature="e#5164#5223#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
