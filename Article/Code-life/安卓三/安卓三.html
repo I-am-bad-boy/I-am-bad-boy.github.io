@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/normalize/8.0.0/normalize.min.css">
+    <link rel="stylesheet" href="../../../css/main.css">
+    <title>周鑫文的博客</title>
+    <link rel="icon" href="https://zhouxinwen.top/develop/zs.ico">
+
+</head>
+<body>
+<div class="side-bar">
+    <div class="header">
+        <a href="../../../index.html" class="logo">Zhouxinwen</a>
+        <div class="intro">Little heart, big dreams.</div>
+    </div>
+    <div class="nav">
+        <a href="../../../rank/My-insight.html" class="item">My insights </a>
+        <a href="../../../rank/Code-life.html" class="item">Code life</a>
+        <a href="../../../rank/Growth-notes.html" class="item">Growth notes</a>
+    </div>
+    <div class="tag-list">
+        <a href="../../../develop/Being-developed.html" class="item">About me</a>
+        <a href="../../../develop/Being-developed.html" class="item">connect me</a>
+        <a href="../../../develop/Being-developed.html" class="item">focus me</a>
+    </div>
+</div>
+</div><div class="main">
+    <div class="article">
+        <h1 class="title">安卓三</h1>
+        <div class="status">发布于：2018/12/19 23:59 星期三| 修改次数：0|标签：代码</div>
+        <div class="content">
+
+                <div class="text">
+                    今天老尴尬了本来代码已经打得很好了，但最后一个例子要在原来的基础上修改，然后失败直接让整个项目瘫了，只能在12点后在补做一个简单的。
+                </div>
+                <div class="text">
+                    1）显示Intent：
+                </div>
+            <textarea>
+                public void onclick(View v){
+                Intent intent=new Intent(FirstActivity.this,SecondActivity.class);
+                startActivity(intent);
+                }
+            </textarea>
+                <div class="text">
+                    2)接浏览器Intent：
+                </div>
+            <textarea>
+                public void onclick(View v){
+                Intent intent=new Intent(FirstActivity.this,SecondActivity.class);
+                startActivity(intent);
+                }
+            </textarea>
+                <div class="text">
+                    3）更新Intent时的判断：
+                </div>
+            <textarea>
+                注册信息：
+                <intent-filter>
+                    <action android:name="android.intent.action.VIEW"/>
+                    <category android:name="android.intent.category.DEFAULT"/>
+                    <data android:scheme="http"/>
+                </intent-filter>
+            </textarea>
+                <div class="text">
+                    4)调用拨号面板：
+                </div>
+            <textarea>
+                public void onClick(View v){
+                Intent intent=new Intent(Intent.ACTION_DIAL);
+                intent.setData(Uri.parse("tel:10086"));
+                startActivity(intent);
+                }
+            </textarea>
+                <div class="text">
+                    5）传递数据给下一个页面：
+                </div>
+            <textarea>
+                public void onclick(View v){
+                String data="Hello SecondActivity";
+                Intent intent=new Intent(FirstActivity.this,SecondActivity.class);
+                intent.putExtra("extra_data",data);
+                startActivity(intent);
+                }
+            </textarea>
+                <div class="text">
+                    6)接收上一个页面的数据:
+                </div>
+            <textarea>
+                protected void onCreate(Bundle savedInstanceState){
+                super.onCreate(SavedInstanceState);
+                Intent intent=getIntent();
+                String data=intent.getStringExtra('extra_data');
+                log.d("SecondActivity",data);
+                }
+            </textarea>
+                <div class="text">
+                    7)接收下一个页面的数据：
+                </div>
+            <textarea>
+               public void onclick(View v){
+                Intent intent=new Intent(FirstActivity.this,SecondActivity.class);
+                intent.putExtra(intent,1);
+                }
+            </textarea>
+                <div class="text">
+                    8)传递信息给上一个页面：
+                </div>
+            <textarea>
+                (Button) findViewById(R.id.button_2);
+                button2.setOnclickListener(new View.OnClickListener(){
+                public void onclick(View v){
+                Intent intent=new Intent();
+                intent.putExtra("data_return","hello FirstActivity");
+                setResult(RESULT_OK,intent);
+                finish();
+                }
+                })
+            </textarea>
+                <div class="text">
+                    还有一个重写函数来返回页面信息，太晚了，不写了。
+                </div>
+            <img src="https://raw.githubusercontent.com/zxwailma/webox/master/December19c/pic.png">
+                <div class="text"></div>
+                <div class="text"></div>
+                <div class="text">
+                    成果图：
+                </div>
+                <img src="https://raw.githubusercontent.com/zxwailma/webox/master/December18c/pic1.png">
+                <div class="text">下载链接：</div>
+                <div class="text">
+                    <a href="https://raw.githubusercontent.com/zxwailma/webox/master/December19c/test.apk">apk下载链接</a>
+                </div>
+            <div class="text"></div>
+            <div class="text"></div>
+            <div class="text"></div>
+            <div class="text"></div>
+            <div class="text"></div>
+            <div class="text"></div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
