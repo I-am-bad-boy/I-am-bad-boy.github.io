@@ -17,7 +17,7 @@
     <session id="-313140998">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="86" />
+          <entry key="project.closed" value="90" />
           <entry key="project.open.time.10" value="6" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -26,6 +26,7 @@
           <entry key="project.open.time.23" value="4" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.28" value="4" />
           <entry key="project.open.time.29" value="3" />
           <entry key="project.open.time.30" value="4" />
@@ -43,18 +44,18 @@
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.61" value="1" />
-          <entry key="project.open.time.7" value="7" />
-          <entry key="project.open.time.8" value="9" />
+          <entry key="project.open.time.7" value="9" />
+          <entry key="project.open.time.8" value="10" />
           <entry key="project.open.time.80" value="1" />
           <entry key="project.open.time.87" value="1" />
-          <entry key="project.open.time.9" value="12" />
-          <entry key="project.opened" value="92" />
+          <entry key="project.open.time.9" value="13" />
+          <entry key="project.opened" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="4" />
-          <entry key="html" value="169" />
+          <entry key="css" value="5" />
+          <entry key="html" value="175" />
           <entry key="jpg" value="21" />
           <entry key="md" value="1" />
           <entry key="png" value="4" />
@@ -62,24 +63,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="4" />
-          <entry key="HTML" value="169" />
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="175" />
           <entry key="Image" value="25" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="142" />
-          <entry key="html" value="32998" />
+          <entry key="css" value="277" />
+          <entry key="html" value="34611" />
           <entry key="md" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="142" />
+          <entry key="CSS" value="277" />
           <entry key="Enforced Plain Text" value="2" />
-          <entry key="HTML" value="32996" />
+          <entry key="HTML" value="34609" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -91,55 +92,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rank/Growth-notes.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="35" selection-start-line="35" selection-end-line="50" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rank/Code-life.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="152">
               <caret line="30" selection-start-line="30" selection-end-line="44" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Article/Code-life/APP中加入博客/APP中加入博客.html">
+        <entry file="file://$PROJECT_DIR$/Article/Code-life/博客表情包配置（含大量图片）/博客表情包配置（含大量图片）.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="30" selection-start-line="30" selection-end-line="40" selection-end-column="18" />
+            <state relative-caret-position="428">
+              <caret line="41" column="18" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="41" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Article/Growth-notes/以梦为马，以梦喂马/以梦为马，以梦喂马.html">
+        <entry file="file://$PROJECT_DIR$/Article/Growth-notes/今天没学什么啊，以后不要这样玩了/今天没学什么啊，以后不要这样玩了.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Article/Growth-notes/昨天博客出问题了/昨天博客出问题了.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Article/Code-life/安卓笔记二/安卓笔记二.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="40" column="22" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="40" selection-end-column="22" />
+            <state relative-caret-position="114">
+              <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -147,26 +121,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="46" column="34" lean-forward="true" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Article/Code-life/安卓笔记一/安卓笔记一.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="18" selection-start-line="30" selection-start-column="8" selection-end-line="40" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Article/Growth-notes/坑人/坑人.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="44" column="14" selection-start-line="31" selection-start-column="5" selection-end-line="44" selection-end-column="14" />
+            <state relative-caret-position="314">
+              <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="41" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -174,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="200">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -195,8 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Article/Code-life/数据结构绪论/定积分（三）.html" />
-        <option value="$PROJECT_DIR$/Article/Code-life/数据结构绪论/数据结构绪论.html" />
         <option value="$PROJECT_DIR$/Article/Growth-notes/回归正轨了/回归正轨了.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/数据结构顺序表与链表/数据结构顺序表与链表.html" />
         <option value="$PROJECT_DIR$/Article/Growth-notes/一个有意思的人/一个有意思的人.html" />
@@ -231,7 +185,6 @@
         <option value="$PROJECT_DIR$/Article/Code-life/安卓二/安卓二.html" />
         <option value="$PROJECT_DIR$/Article/Growth-notes/问题总比办法多/问题总比办法多.html" />
         <option value="$PROJECT_DIR$/Article/Growth-notes/肚子痛/肚子痛.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/Article/Code-life/安卓三/安卓三.html" />
         <option value="$PROJECT_DIR$/Article/Growth-notes/我是个胆小鬼/我是个胆小鬼.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/我做的第一个APP出炉了/我做的第一个APP出炉了.html" />
@@ -242,9 +195,12 @@
         <option value="$PROJECT_DIR$/Article/Growth-notes/以梦为马，以梦喂马/以梦为马，以梦喂马.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/安卓笔记一/安卓笔记一.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/安卓笔记二/安卓笔记二.html" />
-        <option value="$PROJECT_DIR$/rank/Code-life.html" />
-        <option value="$PROJECT_DIR$/rank/Growth-notes.html" />
         <option value="$PROJECT_DIR$/Article/Growth-notes/昨天博客出问题了/昨天博客出问题了.html" />
+        <option value="$PROJECT_DIR$/rank/Growth-notes.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/Article/Growth-notes/今天没学什么啊，以后不要这样玩了/今天没学什么啊，以后不要这样玩了.html" />
+        <option value="$PROJECT_DIR$/Article/Code-life/博客表情包配置（含大量图片）/博客表情包配置（含大量图片）.html" />
+        <option value="$PROJECT_DIR$/rank/Code-life.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -290,7 +246,20 @@
               <item name="I-am-bad-boy.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="Article" type="462c0819:PsiDirectoryNode" />
               <item name="Code-life" type="462c0819:PsiDirectoryNode" />
-              <item name="安卓笔记二" type="462c0819:PsiDirectoryNode" />
+              <item name="博客表情包配置（含大量图片）" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="I-am-bad-boy.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="I-am-bad-boy.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="Article" type="462c0819:PsiDirectoryNode" />
+              <item name="Growth-notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="I-am-bad-boy.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="I-am-bad-boy.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="Article" type="462c0819:PsiDirectoryNode" />
+              <item name="Growth-notes" type="462c0819:PsiDirectoryNode" />
+              <item name="今天没学什么啊，以后不要这样玩了" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="I-am-bad-boy.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -468,17 +437,22 @@
       <workItem from="1545585858734" duration="1767000" />
       <workItem from="1545587812785" duration="1778000" />
       <workItem from="1545589725489" duration="749000" />
+      <workItem from="1545662044938" duration="1743000" />
+      <workItem from="1545663848976" duration="1095000" />
+      <workItem from="1545665678477" duration="1782000" />
+      <workItem from="1545667511165" duration="1795000" />
+      <workItem from="1545669346276" duration="1252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175080000" />
+    <option name="totallyTimeSpent" value="182747000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2001488" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25818452" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -531,20 +505,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Article/Code-life/windows多加一个盘/windows多加一个盘.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/Why-i-write-blog/Why-i-write-blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Article/My-insights/11-15diry/11-15diry.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -802,10 +762,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Code-life/安卓笔记一/安卓笔记一.html">
+    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/以梦为马，以梦喂马/以梦为马，以梦喂马.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Article/Code-life/安卓笔记二/安卓笔记二.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
-          <caret line="40" column="18" selection-start-line="30" selection-start-column="8" selection-end-line="40" selection-end-column="18" />
+          <caret line="40" column="22" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Article/Code-life/APP中加入博客/APP中加入博客.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/昨天博客出问题了/昨天博客出问题了.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -816,59 +797,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Code-life/APP中加入博客/APP中加入博客.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="30" selection-start-line="30" selection-end-line="40" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Code-life/安卓笔记二/安卓笔记二.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="40" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/昨天博客出问题了/昨天博客出问题了.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/以梦为马，以梦喂马/以梦为马，以梦喂马.html">
+    <entry file="file://$PROJECT_DIR$/Article/Code-life/安卓笔记一/安卓笔记一.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
-          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rank/Code-life.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="30" selection-start-line="30" selection-end-line="44" selection-end-column="14" />
+          <caret line="40" column="18" selection-start-line="30" selection-start-column="8" selection-end-line="40" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rank/Growth-notes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="35" selection-start-line="35" selection-end-line="50" selection-end-column="14" />
+        <state relative-caret-position="428">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/今天没学什么啊，以后不要这样玩了/今天没学什么啊，以后不要这样玩了.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Article/Code-life/博客表情包配置（含大量图片）/博客表情包配置（含大量图片）.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="41" column="18" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rank/Code-life.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="30" selection-start-line="30" selection-end-line="44" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="46" column="34" lean-forward="true" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        <state relative-caret-position="314">
+          <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="41" selection-end-column="22" />
         </state>
       </provider>
     </entry>

@@ -16,6 +16,20 @@ textarea{
 .article img:hover{
     width: 180%;
 }
+.article .important{
+    corlor:red;
+}
+
+.article img.Emoticon{
+    width: auto;
+    height: auto;
+    vertical-align: top;
+    max-height: 100px;
+    max-width: 100px;
+}
+
+
+
 
 .text{
     text-indent: 2em;
