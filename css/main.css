@@ -3,7 +3,9 @@ body{
     background: #454545;
     line-height: 1.7;
 }
-
+html{
+    font-size: 0.5vw;
+}
 textarea{
     width: 100%;
     resize: none;
@@ -46,6 +48,10 @@ a{
 
 h1{
     text-align: center;
+    font-size: 1.5vw;
+}
+h4{
+    font-size: 0.8vw;
 }
 
 a,body{
