@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/normalize/8.0.0/normalize.min.css">
+    <link rel="stylesheet" href="../../../css/main.css">
+    <title>周鑫文的博客</title>
+    <link rel="icon" href="https://zhouxinwen.top/develop/zs.ico">
+
+</head>
+<body>
+<div class="side-bar">
+    <div class="header">
+        <a href="../../../index.html" class="logo">Zhouxinwen</a>
+        <div class="intro">Little heart, big dreams.</div>
+    </div>
+    <div class="nav">
+        <a href="../../../rank/My-insight.html" class="item">My insights </a>
+        <a href="../../../rank/Code-life.html" class="item">Code life</a>
+        <a href="../../../rank/Growth-notes.html" class="item">Growth notes</a>
+    </div>
+    <div class="tag-list">
+        <a href="../../../develop/Being-developed.html" class="item">About me</a>
+        <a href="../../../develop/Being-developed.html" class="item">connect me</a>
+        <a href="../../../develop/Being-developed.html" class="item">focus me</a>
+    </div>
+</div>
+</div><div class="main">
+    <div class="article">
+        <h1 class="title">安卓详细笔记一</h1>
+        <div class="status">发布于：2018/12/25 23:59 星期二| 修改次数：0|标签：代码</div>
+        <div class="content">
+                <div class="text">
+                    延时跳转：
+                </div>
+            <textarea>
+protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_splash);
+        mHandler.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                //跳转到MainActivity
+
+                Intent intent=new Intent
+(SplashActivity.this,MainActivity.class);
+		startActivity(intent);
+            }
+        },1000);
+    }
+//一秒后跳转
+
+
+            </textarea>
+            <div class="text">页面跳转</div>
+            <div class="text">发送端：</div>
+            <textarea>
+        TextView textView=(TextView) findViewById(R.id.title_text_view);
+        final String title=textView.getText().toString();
+        mHandler.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                //跳转到MainActivity
+                Intent intent=new Intent
+(SplashActivity.this,MainActivity.class);
+                intent.putExtra("title",title);
+                startActivity(intent);
+            }
+        },1000);
+    }
+            </textarea>
+            <div class="text">接收端</div>
+            <textarea>
+        Intent intent=getIntent();
+        if (intent!=null){
+            String title = intent.getStringExtra("title");
+            setTitle(title);
+        }
+
+            </textarea>
+            <div class="text">函数构造器快捷方式：Alt+Insert</div>
+            <div class="text">传递对象：</div>
+            <div class="text">对象类：</div>
+            <textarea>
+    public class Userinfo implements Serializable {
+    private String mUserName;
+    private int mAge;
+
+    public Userinfo(String mUserName, int mAge) {
+        this.mUserName = mUserName;
+        this.mAge = mAge;
+    }
+
+    public void setmUserName(String mUserName) {
+        this.mUserName = mUserName;
+    }
+
+    public void setmAge(int mAge) {
+        this.mAge = mAge;
+    }
+
+    public String getmUserName() {
+        return mUserName;
+    }
+
+    public int getmAge() {
+        return mAge;
+    }
+}
+            </textarea>
+            <div class="text">发送端：</div>
+            <textarea>
+                public void run() {
+                Userinfo userinfo=new Userinfo("小明",12);
+                //跳转到MainActivity
+                Intent intent=new Intent
+(SplashActivity.this,MainActivity.class);
+                intent.putExtra("title",title);
+                intent.putExtra("userinfo",userinfo);
+                startActivity(intent);
+            }
+            </textarea>
+            <div class="text">接收端</div>
+            <textarea>
+         Intent intent=getIntent();
+        if (intent!=null){
+            String title = intent.getStringExtra("title");
+            Userinfo userinfo=(Userinfo) intent.getSerializableExtra
+("userinfo");
+            setTitle("名字是："+userinfo.getmUserName());
+        }
+    }
+            </textarea>
+            <div class="text">提取常量为变量：Ctrl+Alt+c 可以在其他类中引用</div>
+            <div class="text">普通变量变全局变量：Ctrl+Alt+f</div>
+            <div class="text">返回消息：</div>
+            <div class="text">发送端：</div>
+            <textarea>
+             public void run() {
+
+                Userinfo userinfo=new Userinfo("小明",12);
+                //跳转到MainActivity
+                Intent intent=new Intent
+(SplashActivity.this,MainActivity.class);
+                intent.putExtra(TITLE,title);
+                intent.putExtra(USERINFO,userinfo);
+                startActivityForResult(intent, REQUEST_CODE);
+            }
+        },1000);
+    }
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode,
+Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        Log.i(TAG,"requestCode:"+requestCode
++",resultcode:"+resultCode);
+        if(requestCode==REQUEST_CODE && resultCode ==
+MainActivity.RESULT_CODE){
+            if (data != null){
+                String title=data.getStringExtra(TITLE);
+                mTextView.setText(title);
+            }
+        }
+    }
+            </textarea>
+            <div class="text">接收端：</div>
+            <textarea>
+             findViewById(R.id.button_first).setOnClickListener(new
+View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                //点击时触发的效果
+                Intent intent=new Intent();
+                intent.putExtra(SplashActivity.TITLE,"我是主页，我送你
+回来了");
+                setResult(RESULT_CODE,intent);
+               finish();
+            }
+        });
+            </textarea>
+            <div class="text">
+                生命周期测试：</div>
+            <textarea>
+        protected void onCreate() {
+        Log.i(TAG,"onCreate");
+        super.onCreate(savedInstanceState);
+}
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        Log.i(TAG,"onStart");
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        Log.i(TAG,"onResume");
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        Log.i(TAG,"onPause");
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        Log.i(TAG,"onStop");
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Log.i(TAG,"onDestroy");
+    }
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+        Log.i(TAG,"onRestart");
+    }
+
+            </textarea>
+            <div class="text">
+                TextView常用属性
+            </div>
+            <textarea>
+                 <TextView
+                         android:layout_width="120dp"
+                         android:layout_height="48dp"
+                         android:textSize="18sp"
+                         android:gravity="center"
+                         android:textColor="@color/white"
+                         android:maxLines="1"
+                         android:background="@color/red"
+                         android:text="@string/hello_world_text" />
+            </textarea>
+            <div class="text">所有的View都可以被点击</div>
+            <div class="text">Button是特殊的Textview</div>
+            <div class="text">imageView常用属性：</div>
+            <textarea>
+                <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="200dp"
+                        app:srcCompat="@mipmap/icon"
+                        android:background="@mipmap/ic_launcher"
+                        android:scaleType="centerCrop"
+                        android:id="@+id/imageView" />
+            </textarea>
+            <div class="text">Editable字数限制：</div>
+            <textarea>
+                public void afterTextChanged(Editable s) {
+                if (s.toString().length()>5){
+                    Toast.makeText(MainActivity.this,"超过5个字
+了",Toast.LENGTH_LONG).show();
+                }
+                    Log.i(TAG,"s:"+s.toString());
+
+            }
+            </textarea>
+            <div class="text">进度条设置</div>
+            <textarea>
+                ProgressBar progressBar=(ProgressBar)findViewById
+(R.id.progressBar);
+        progressBar.setProgress(90);
+            </textarea>
+            <div class="text">博客APP链接下载</div>
+            <a href="https://raw.githubusercontent.com/zxwailma/webox/master/APP/鑫世界.apk">博客APP下载</a>
+            <div class="text">博客APP二维码下载</div>
+            <img src="https://raw.githubusercontent.com/zxwailma/webox/master/APP/download.png" alt="">
+            <div class="text"></div>
+            <div class="text"></div>
+            <div class="text"></div>
+            <div class="text"></div>
+            <div class="text"></div>
+            <div class="text"></div>
+            <div class="text"></div>
+            <div class="text"></div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
