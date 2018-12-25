@@ -26,8 +26,8 @@ textarea{
     width: auto;
     height: auto;
     vertical-align: top;
-    max-height: 100px;
-    max-width: 100px;
+    max-height: 10%;
+    max-width: 10%;
 }
 
 
@@ -69,44 +69,44 @@ a,body{
     width: 50%;
     background: #fff;
     color: #454545;
-    padding: 20px 30px;
-    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    padding: 4mm 12mm;
+    box-shadow: 0 0 2mm rgba(0,0,0,0.2);
 }
 
 
 .article-list .item .title,.article .title {
     color: #454545;
-    font-size: 20px;
+    font-size: 8mm;
     font-weight: 700;
 }
 
 .article-list .item .status,.article .status{
-    font-size:13px;
+    font-size:5mm;
     color: #ccc;
 }
 
 .article-list .item>*,
 .article>*{
-    margin: 10px 0px;
+    margin: 4mm 0mm;
 }
 
 .header .logo{
     line-height: 1;
-    border: 5px solid #eee;
-    padding: 10px 20px;
-    font-size:30px;
+    border: 2mm solid #eee;
+    padding: 4mm 8mm;
+    font-size:12mm;
     display: inline-block;
-    margin-bottom: 10px;
+    margin-bottom: 4mm;
 }
 
 .side-bar>*{
-    padding: 10px 15px;
+    padding: 4mm 6mm;
 }
 
 .side-bar .nav a,
 .side-bar .tag-list a{
     display: block;
-    padding: 8px;
+    padding: 3mm;
     color: #888;
 }
 
@@ -122,5 +122,5 @@ a,body{
 
 
 .article-list .item{
-    margin-bottom: 25px;
+    margin-bottom: 10mm;
 }
