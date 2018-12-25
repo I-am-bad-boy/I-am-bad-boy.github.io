@@ -56,15 +56,14 @@ a,body{
 }
 .side-bar{
    float: left;
-    width: 25%;
+    width: 50%;
     position: fixed;
 }
 
 .main{
     float: right;
-    width: 75%;
+    width: 60%;
 }
-
 .article-list,.article{
     width: 50%;
     background: #fff;
