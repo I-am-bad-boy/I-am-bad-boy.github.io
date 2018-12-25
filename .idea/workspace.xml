@@ -17,7 +17,7 @@
     <session id="-313140998">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="98" />
+          <entry key="project.closed" value="99" />
           <entry key="project.open.time.10" value="7" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -35,7 +35,7 @@
           <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.34" value="3" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.37" value="3" />
+          <entry key="project.open.time.37" value="4" />
           <entry key="project.open.time.38" value="3" />
           <entry key="project.open.time.39" value="2" />
           <entry key="project.open.time.41" value="1" />
@@ -50,7 +50,7 @@
           <entry key="project.open.time.87" value="1" />
           <entry key="project.open.time.89" value="1" />
           <entry key="project.open.time.9" value="14" />
-          <entry key="project.opened" value="104" />
+          <entry key="project.opened" value="105" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -73,7 +73,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="602" />
-          <entry key="html" value="35639" />
+          <entry key="html" value="35645" />
           <entry key="md" value="3" />
         </counts>
       </usages-collector>
@@ -81,7 +81,7 @@
         <counts>
           <entry key="CSS" value="602" />
           <entry key="Enforced Plain Text" value="2" />
-          <entry key="HTML" value="35637" />
+          <entry key="HTML" value="35643" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -113,13 +113,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Article/Code-life/安卓详细笔记一/安卓详细笔记一.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
+            <state relative-caret-position="5092">
               <caret line="268" selection-start-line="268" selection-end-line="271" selection-end-column="101" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/develop/Being-developed.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="409">
@@ -131,8 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+            <state relative-caret-position="390">
+              <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -146,11 +146,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Article/Growth-notes/博客移植到APP，熬夜了/博客移植到APP，熬夜了.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="85" column="97" selection-start-line="85" selection-start-column="97" selection-end-line="85" selection-end-column="97" />
+            <state relative-caret-position="352">
+              <caret line="84" column="41" lean-forward="true" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -233,8 +233,8 @@
         <option value="$PROJECT_DIR$/rank/Growth-notes.html" />
         <option value="$PROJECT_DIR$/rank/Code-life.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/安卓详细笔记一/安卓详细笔记一.html" />
-        <option value="$PROJECT_DIR$/Article/Growth-notes/博客移植到APP，熬夜了/博客移植到APP，熬夜了.html" />
         <option value="$PROJECT_DIR$/develop/Being-developed.html" />
+        <option value="$PROJECT_DIR$/Article/Growth-notes/博客移植到APP，熬夜了/博客移植到APP，熬夜了.html" />
       </list>
     </option>
   </component>
@@ -461,11 +461,12 @@
       <workItem from="1545764261636" duration="1786000" />
       <workItem from="1545766080886" duration="1786000" />
       <workItem from="1545768046386" duration="86000" />
+      <workItem from="1545769596922" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192920000" />
+    <option name="totallyTimeSpent" value="192971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -811,6 +812,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/今天没学什么啊，以后不要这样玩了/今天没学什么啊，以后不要这样玩了.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rank/Code-life.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
@@ -825,24 +833,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/Article/Code-life/安卓详细笔记一/安卓详细笔记一.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/今天没学什么啊，以后不要这样玩了/今天没学什么啊，以后不要这样玩了.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+        <state relative-caret-position="5092">
+          <caret line="268" selection-start-line="268" selection-end-line="271" selection-end-column="101" />
         </state>
       </provider>
     </entry>
@@ -853,17 +847,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Code-life/安卓详细笔记一/安卓详细笔记一.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="268" selection-start-line="268" selection-end-line="271" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/博客移植到APP，熬夜了/博客移植到APP，熬夜了.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="85" column="97" selection-start-line="85" selection-start-column="97" selection-end-line="85" selection-end-column="97" />
+        <state relative-caret-position="114">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -871,6 +858,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="32" column="97" selection-start-line="32" selection-start-column="97" selection-end-line="32" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/博客移植到APP，熬夜了/博客移植到APP，熬夜了.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="84" column="41" lean-forward="true" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
         </state>
       </provider>
     </entry>
