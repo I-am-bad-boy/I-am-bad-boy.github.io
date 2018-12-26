@@ -31,8 +31,8 @@ textarea{
     width: auto;
     height: auto;
     vertical-align: top;
-    max-height: 10%;
-    max-width: 10%;
+    max-height: 100%;
+    max-width: 100%;
 }
 
 
@@ -60,12 +60,15 @@ h4{
 a,body{
     color: #eee;
 }
+.article a{
+    color: red;!important;
+}
 .article .content a{
     color: #991212;!important;
 }
 .side-bar{
    float: left;
-    width: 50%;
+    width: 40%;
     position: fixed;
 }
 
