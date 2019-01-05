@@ -74,7 +74,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="702" />
-          <entry key="html" value="41532" />
+          <entry key="html" value="41533" />
           <entry key="md" value="3" />
         </counts>
       </usages-collector>
@@ -82,7 +82,7 @@
         <counts>
           <entry key="CSS" value="702" />
           <entry key="Enforced Plain Text" value="2" />
-          <entry key="HTML" value="41530" />
+          <entry key="HTML" value="41531" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -102,11 +102,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rank/Code-life.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            <state relative-caret-position="333">
+              <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -129,11 +129,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Article/Growth-notes/心存敬畏/心存敬畏.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+            <state relative-caret-position="418">
+              <caret line="58" column="84" selection-start-line="58" selection-start-column="84" selection-end-line="58" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -232,11 +232,11 @@
         <option value="$PROJECT_DIR$/Article/Growth-notes/红玫瑰、白玫瑰/未完成最低.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/无穷数列问题/夹逼定理.html" />
         <option value="$PROJECT_DIR$/rank/Growth-notes.html" />
-        <option value="$PROJECT_DIR$/Article/Growth-notes/心存敬畏/心存敬畏.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/夹逼定理/夹逼定理.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/利用导数定义/利用导数定义.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/rank/Code-life.html" />
+        <option value="$PROJECT_DIR$/Article/Growth-notes/心存敬畏/心存敬畏.html" />
       </list>
     </option>
   </component>
@@ -246,7 +246,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="683" />
@@ -531,12 +531,12 @@
       <workItem from="1546613498778" duration="1788000" />
       <workItem from="1546615323932" duration="325000" />
       <workItem from="1546700137990" duration="1628000" />
-      <workItem from="1546701932611" duration="787000" />
+      <workItem from="1546701932611" duration="1278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229079000" />
+    <option name="totallyTimeSpent" value="229570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -918,13 +918,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/心存敬畏/心存敬畏.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Article/Code-life/利用导数定义/利用导数定义.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -941,8 +934,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rank/Code-life.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state relative-caret-position="333">
+          <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/心存敬畏/心存敬畏.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="58" column="84" selection-start-line="58" selection-start-column="84" selection-end-line="58" selection-end-column="84" />
         </state>
       </provider>
     </entry>
