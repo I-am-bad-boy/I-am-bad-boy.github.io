@@ -78,7 +78,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="702" />
-          <entry key="html" value="44668" />
+          <entry key="html" value="44676" />
           <entry key="md" value="3" />
         </counts>
       </usages-collector>
@@ -86,7 +86,7 @@
         <counts>
           <entry key="CSS" value="702" />
           <entry key="Enforced Plain Text" value="2" />
-          <entry key="HTML" value="44666" />
+          <entry key="HTML" value="44674" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -100,17 +100,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="35" selection-start-line="35" selection-end-line="47" selection-end-column="14" />
+            <state relative-caret-position="352">
+              <caret line="51" column="66" selection-start-line="51" selection-start-column="66" selection-end-line="51" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Article/Growth-notes/明天早上考试，今天早点睡/明天早上考试，今天早点睡.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="456">
+              <caret line="42" column="90" selection-start-line="42" selection-start-column="90" selection-end-line="42" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -124,7 +124,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rank/Growth-notes.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="295">
@@ -154,8 +154,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Article/Code-life/数学些笔记/数学些笔记.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="34" column="29" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="38" selection-end-column="18" />
+            <state relative-caret-position="143">
+              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -227,11 +227,11 @@
         <option value="$PROJECT_DIR$/Article/Growth-notes/头上凉飕飕的/又玩了一天.html" />
         <option value="$PROJECT_DIR$/Article/Growth-notes/头上凉飕飕的/头上凉飕飕的.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/外国抖音TikTok使用/外国抖音TikTok使用.html" />
-        <option value="$PROJECT_DIR$/Article/Growth-notes/明天早上考试，今天早点睡/明天早上考试，今天早点睡.html" />
         <option value="$PROJECT_DIR$/rank/Growth-notes.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/数学些笔记/数学些笔记.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/rank/Code-life.html" />
+        <option value="$PROJECT_DIR$/Article/Growth-notes/明天早上考试，今天早点睡/明天早上考试，今天早点睡.html" />
       </list>
     </option>
   </component>
@@ -241,7 +241,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="683" />
@@ -603,12 +603,12 @@
       <workItem from="1547134101188" duration="1804000" />
       <workItem from="1547135935317" duration="1673000" />
       <workItem from="1547218108815" duration="1588000" />
-      <workItem from="1547219919437" duration="435000" />
+      <workItem from="1547219919437" duration="864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248731000" />
+    <option name="totallyTimeSpent" value="249160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -975,13 +975,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/明天早上考试，今天早点睡/明天早上考试，今天早点睡.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -996,17 +989,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Code-life/数学些笔记/数学些笔记.html">
+    <entry file="file://$PROJECT_DIR$/rank/Growth-notes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="34" column="29" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="38" selection-end-column="18" />
+        <state relative-caret-position="295">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/Article/Code-life/数学些笔记/数学些笔记.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="35" selection-start-line="35" selection-end-line="47" selection-end-column="14" />
+        <state relative-caret-position="143">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1017,10 +1010,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rank/Growth-notes.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        <state relative-caret-position="352">
+          <caret line="51" column="66" selection-start-line="51" selection-start-column="66" selection-end-line="51" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Article/Growth-notes/明天早上考试，今天早点睡/明天早上考试，今天早点睡.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="42" column="90" selection-start-line="42" selection-start-column="90" selection-end-line="42" selection-end-column="90" />
         </state>
       </provider>
     </entry>
