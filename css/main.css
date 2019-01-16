@@ -117,7 +117,7 @@ a,body{
 .side-bar .nav a,
 .side-bar .tag-list a{
     display: block;
-    padding: 0.75vw;
+    padding: 0.75vw 0 0.75vw 0.75vw;
     color: #888;
 }
 
