@@ -1,10 +1,10 @@
 
 body{
     background: #454545;
-    line-height: 1.7;
+    line-height: 18px;
 }
 html{
-    font-size: 0.5vw;
+    font-size: 15px;
 }
 audio{
     width: 100%;
@@ -12,7 +12,7 @@ audio{
 textarea{
     width: 100%;
     resize: none;
-    height: 15vw;
+    height: 180px;
 }
 
 .article img{
@@ -51,10 +51,10 @@ a{
 
 h1{
     text-align: center;
-    font-size: 1.5vw;
+    font-size: 18px;
 }
 h4{
-    font-size: 0.8vw;
+    font-size: 12px;
 }
 
 a,body{
@@ -80,44 +80,44 @@ a,body{
     width: 50%;
     background: #fff;
     color: #454545;
-    padding: 1vw 3vw;
-    box-shadow: 0 0 0.5vw rgba(0,0,0,0.2);
+    padding: 60px 90px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
 }
 
 
 .article-list .item .title,.article .title {
     color: #454545;
-    font-size: 2vw;
+    font-size: 24px;
     font-weight: 700;
 }
 
 .article-list .item .status,.article .status{
-    font-size:1.25vw;
+    font-size:15px;
     color: #ccc;
 }
 
 .article-list .item>*,
 .article>*{
-    margin: 1vw 0vw;
+    margin: 12px 0px;
 }
 
 .header .logo{
     line-height: 1;
-    border: 0.5vw solid #eee;
-    padding: 1vw 2vw;
-    font-size:3vw;
+    border: 6px solid #eee;
+    padding: 12px 24px;
+    font-size:36px;
     display: inline-block;
-    margin-bottom: 1vw;
+    margin-bottom: 12px;
 }
 
 .side-bar>*{
-    padding: 1vw 1.5vw;
+    padding: 12px 18px;
 }
 
 .side-bar .nav a,
 .side-bar .tag-list a{
     display: block;
-    padding: 0.75vw 0 0.75vw 0.75vw;
+    padding: 9px 0 9px 9px;
     color: #888;
 }
 
@@ -133,5 +133,5 @@ a,body{
 
 
 .article-list .item{
-    margin-bottom: 2.5vw;
+    margin-bottom: 30px;
 }

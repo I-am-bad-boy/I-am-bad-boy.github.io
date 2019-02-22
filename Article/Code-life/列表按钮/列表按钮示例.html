@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>列表按钮示例</title>
+    <style type="text/css">
+        body{
+            background-image: url("");
+        }
+        .list-button button{
+            border: 1px solid darkred;
+            background-color: red;
+            color: white;
+            padding:10px auto;
+            width: 100px;
+            display: block;
+        }
+        .list-button button:not(:last-child){
+            border-bottom:none;
+        }
+        .list-button button:hover{
+            background-color: pink;
+        }
+    </style>
+</head>
+<body>
+<div class="list-button">
+    <button>酸</button>
+    <button>甜</button>
+    <button>苦</button>
+    <button>辣</button>
+</div>
+</body>
+</html>
