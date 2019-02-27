@@ -58,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/Article/Growth-notes/还是写写博客吧/还是写写博客吧.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="313">
-              <caret line="47" column="26" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="98" />
+              <caret line="47" column="98" selection-start-line="47" selection-start-column="98" selection-end-line="47" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -93,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Article/Code-life/loading/loading.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="29" column="33" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="33" />
+            <state relative-caret-position="332">
+              <caret line="41" column="130" selection-start-line="41" selection-start-column="130" selection-end-line="41" selection-end-column="130" />
             </state>
           </provider>
         </entry>
@@ -176,12 +176,12 @@
         <option value="$PROJECT_DIR$/Article/Code-life/列表按钮/列表按钮示例.html" />
         <option value="$PROJECT_DIR$/Article/Growth-notes/到校第二天/到校第二天.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/列表按钮/列表按钮.html" />
-        <option value="$PROJECT_DIR$/Article/Growth-notes/还是写写博客吧/还是写写博客吧.html" />
         <option value="$PROJECT_DIR$/rank/Growth-notes.html" />
         <option value="$PROJECT_DIR$/Article/Code-life/进度条/列表按钮示例.html" />
-        <option value="$PROJECT_DIR$/Article/Code-life/loading/loading.html" />
         <option value="$PROJECT_DIR$/rank/Code-life.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Article/Growth-notes/还是写写博客吧/还是写写博客吧.html" />
+        <option value="$PROJECT_DIR$/Article/Code-life/loading/loading.html" />
       </list>
     </option>
   </component>
@@ -537,15 +537,15 @@
       <workItem from="1548155630812" duration="957000" />
       <workItem from="1550838391621" duration="6627000" />
       <workItem from="1550846509153" duration="966000" />
-      <workItem from="1551271423968" duration="4868000" />
+      <workItem from="1551271423968" duration="5112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="295394000" />
+    <option name="totallyTimeSpent" value="295638000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20238096" />
@@ -905,13 +905,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Article/Code-life/loading/loading.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rank/Code-life.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -926,10 +919,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Article/Code-life/loading/loading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="41" column="130" selection-start-line="41" selection-start-column="130" selection-end-line="41" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Article/Growth-notes/还是写写博客吧/还是写写博客吧.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="98" />
+          <caret line="47" column="98" selection-start-line="47" selection-start-column="98" selection-end-line="47" selection-end-column="98" />
         </state>
       </provider>
     </entry>
