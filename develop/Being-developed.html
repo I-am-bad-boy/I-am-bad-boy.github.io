@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -6,6 +7,51 @@
     <link rel="stylesheet" href="../css/main.css">
     <title>Zhou's blog</title>
     <link rel="icon" href="https://zhouxinwen.top/develop/blog.ico">
+    <style type="text/css">
+        .container {
+            position: relative;
+            width: 70%;
+            margin: 10px auto;
+        }
+
+        .image {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+        .article img:hover{
+             width: 100%;
+         }
+
+        .overlay {
+            position: absolute;
+            bottom: 100%;
+            left: 0;
+            right: 0;
+            background-color: #008CBA;
+            overflow: hidden;
+            width: 100%;
+            height:0;
+            transition: .7s ease;
+        }
+
+        .container:hover .overlay {
+            bottom: 0;
+            height: 100%;
+        }
+
+        .text {
+            text-indent: 0em;
+            color: white;
+            font-size: 20px;
+            position: absolute;
+            overflow: hidden;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+        }
+    </style>
 </head>
 <body>
 <div class="side-bar">
@@ -23,12 +69,17 @@
         <a href="#" class="item">connect me</a>
         <a href="#" class="item">focus me</a>
     </div>
-    </div>
+</div>
 </div>
 <div class="main">
     <div class="article">
-        <h1>正在开发</h1>
-        <img src="Being-development.jpg">
+        <div class="container">
+            <h1>个人简介</h1>
+            <img src="home.jpeg" alt="Avatar" class="image" >
+            <div class="overlay">
+                <div class="text">99年傻逼一个，爱发呆，老被回忆纠缠不休。自己一点一点了解、定义世界。<br><br><br>现在就想做好自己的事而已。~~~///(^v^)\\\~~~</div>
+            </div>
+        </div>
     </div>
 </div>
 </body>
