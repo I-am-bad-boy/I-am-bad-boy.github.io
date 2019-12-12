@@ -1,0 +1,92 @@
+<html>
+<head>
+<title>周の素像</title>
+<style type="text/css">
+.lTable {
+	margin:20px;
+    width: 200px;
+    height: 100px; 
+	border:3px solid black;
+	border-collapse:collapse;
+}
+.lTable td{
+	border:3px solid black;
+	text-align:center;
+	color:white;
+}
+.rTable{
+	margin-left:100px;
+}
+.rTable td{
+	font-size:200px;
+	text-align:center;
+}
+.left{
+	width:39%;
+	background:rgb(61,39,61);
+	height:2000px;
+	float:left;
+}
+.right{
+	width:61%;
+	float:left;
+	color:red;
+	text-align:center;
+	height:2000px;
+	background:rgb(39,61,39);
+}
+a{
+	color:white;
+	text-decoration:none;
+}
+img{
+	width:200px;
+}
+</style>
+</head>
+<body>
+<div class="left">
+
+<table class="lTable">
+<tr ><td><h3>PHP项目<h3></td></tr>
+<tr><td><a href="http://39.99.172.143/"><img src="img/php.PNG"></a><br/>
+<a href="http://39.99.172.143/">学委工作台</a></td></tr>
+</table>
+
+
+<table class="lTable">
+<tr ><td><h3>安卓项目<h3></td></tr>
+<tr><td><br/>
+</td></tr>
+</table>
+
+
+<table class="lTable">
+<tr ><td><h3>python项目<h3></td></tr>
+<tr><td><br/>
+</td></tr>
+</table>
+
+
+<table class="lTable">
+<tr ><td><h3>机器学习项目<h3></td></tr>
+<tr><td><br/>
+</td></tr>
+</table>
+
+
+</div>
+
+<div class="right">
+<table class="rTable">
+<h3>KEEP MOVING</h3>
+<tr><td>K</td><td>M</td></tr>
+<tr><td>E</td><td>O</td></tr>
+<tr><td>E</td><td>V</td></tr>
+<tr><td>P</td><td>I</td></tr>
+<tr><td></td><td>N</td></tr>
+<tr><td></td><td>G</td></tr>
+</table>
+</div>
+</body>
+</html>
