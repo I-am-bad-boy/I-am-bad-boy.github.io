@@ -1,4 +1,7 @@
+
+
 <html>
+
 <head>
 <title>周の素像</title>
 <style type="text/css">
