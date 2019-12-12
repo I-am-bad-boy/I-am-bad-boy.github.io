@@ -1,6 +1,6 @@
 # php项目 
 
-![班长工作台](img\php.PNG)
+![班长工作台](img/php.PNG)
 
 # 安卓项目
 
